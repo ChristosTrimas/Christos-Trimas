@@ -7,7 +7,7 @@ My main interest is in <b>Machine Learning</b> and <b>Deep Learning</b>. There a
 
 <i>Statistics shown below:</i>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChristosTrimas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChristosTrimas&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosTrimas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosTrimas&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)

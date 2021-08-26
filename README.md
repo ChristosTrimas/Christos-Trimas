@@ -4,6 +4,7 @@
 
 This is my personal <b>GitHub</b> page! Here I upload projects that I have worked on, personal and from the university or internship work. 
 My main interest is in <b>Machine Learning</b> and <b>Deep Learning</b>. There are also repositories on signal and image processing, telecommunication systems simulation, FPGA acceleration, Security and Cryptography, compilers and transpilers and Databases.
+I am also trying to Hack the Box, but I am very noob. Still in the academy taking modules.
 
 <i>Statistics shown below:</i>
 

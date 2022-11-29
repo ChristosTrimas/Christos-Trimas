@@ -5,7 +5,6 @@
 
 This is my personal <b>GitHub</b> page! Here I upload projects that I have worked on, personal and from the university or internship work. 
 My main interest is in <b>Machine Learning</b> and <b>Deep Learning</b>. There are also repositories on signal and image processing, telecommunication systems simulation, FPGA acceleration, Security and Cryptography, compilers and transpilers and Databases.
-My TryHackMe profile: https://tryhackme.com/p/ApeLambo
 
 <i>Statistics shown below:</i>
 

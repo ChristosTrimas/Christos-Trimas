@@ -1,10 +1,9 @@
 # Welcome to my GitHub page!
 
-- Currently studying <b>Electrical and Computers Engineering at Technical University of Crete, Greece</b>
-- Fulfilling my military obligations as Computer Analyst/Programmer in the Center of Computing Support of the Greek Army.
+- Currently working at  <b>Intracom Defense, as an Artificial Intelligence Research Engineer</b>
+- Pursuing my masters degree in Business administration at the University of Athens.
 
-This is my personal <b>GitHub</b> page! Here I upload projects that I have worked on, personal and from the university or internship work. 
-My main interest is in <b>Machine Learning</b> and <b>Deep Learning</b>. There are also repositories on signal and image processing, telecommunication systems simulation, FPGA acceleration, Security and Cryptography, compilers and transpilers and Databases.
+I am interested in A.I. and its applications in Computer Vision and Physics.
 
 <i>Statistics shown below:</i>
 

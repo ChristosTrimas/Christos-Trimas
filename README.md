@@ -5,6 +5,3 @@
 
 I am interested in A.I. and its applications in Computer Vision and Physics.
 
-<i>Statistics shown below:</i>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosTrimas&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
